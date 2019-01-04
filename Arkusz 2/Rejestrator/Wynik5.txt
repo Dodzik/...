@@ -1,0 +1,25 @@
+Godzina z wiersza 1111
+10:09:31
+Godzina z wiersza 2222
+12:21:13
+
+Godzina z wiersza 3333
+14:18:11
+
+Godzina z wiersza 4444
+23:18:25
+
+Godzina	Wyst¹pienia
+1	288
+2	324
+3	308
+4	163
+10	273
+11	657
+12	650
+13	604
+14	276
+20	139
+21	328
+22	332
+23	326
