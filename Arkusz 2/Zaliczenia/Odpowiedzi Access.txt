@@ -1,9 +1,11 @@
 6.1
+127
 Indeks	Nazwisko	Imie
 5008	Nbacka		Archangela
 5595	Jbacki		Marsjan
 
 6.2
+74
 Indeks	Nazwisko	Imie
 5010	Kbacki		Bernard
 5576	Bbacka		Winicja
@@ -27,11 +29,13 @@ Id	Tytul						Zdali
 15	Jezyk SQL					33
 
 6.4
+83
 Indeks	Nazwisko	Imie
 5008	Nbacka		Archangela
 5593	Jbacka		Taleja
 
 6.5
+90
 Indeks	Nazwisko	Imie
 5003	Pbacki		Agrypin
-5596	Bbacki		Maryniusz
+5588	Abacka	Sexta
